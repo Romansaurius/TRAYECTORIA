@@ -51,7 +51,7 @@
     {
     nombre: "TO-DO List",
     descripcion: "Aplicación web de gestión de tareas con PHP y MySQL. Permite crear, editar y organizar eventos con filtros.",
-    img: "assets/img/todo-list.png",
+    img: "assets/img/todolist.png",
     demo: "https://scripts.onrender.com",
     codigo: "https://github.com/Romansaurius/scripts"
   },
